@@ -100,19 +100,19 @@ export const Skill_data = [
   export const Frontend_skill = [
     {
       skill_name: "Html 5",
-      Image: "/html.png",
+      Image: "/glaxy.png",
       width: 80,
       height: 80,
     },
     {
       skill_name: "Css",
-      Image: "/css.png",
+      Image: "/LockMain.png",
       width: 80,
       height: 80,
     },
     {
       skill_name: "Java Script",
-      Image: "/js.png",
+      Image: "/LockTop.png",
       width: 65,
       height: 65,
     },
