@@ -19,7 +19,7 @@ const Navbar = () => {
           />
 
           <span className="font-bold ml-[10px] hidden md:block text-gray-300">
-            WebChain Dev
+            Kunal's Portfolio
           </span>
         </a>
 
@@ -34,7 +34,7 @@ const Navbar = () => {
             <a href="#projects" className="cursor-pointer">
               Projects
             </a>
-            <a href="#contact-me" className="cursor-pointer">
+            <a href="#footer" className="cursor-pointer">
               Contact me
             </a>
           </div>
